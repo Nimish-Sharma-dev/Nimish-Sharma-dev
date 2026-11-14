@@ -15,10 +15,9 @@
 
 ### 🌐 3D Contribution Calendar
 
-<!-- GitHub 3D Contribution Graph (Automatically switches between Dark & Light themes) -->
+<!-- GitHub 3D Contribution Graph -->
 <a href="https://github.com/Nimish-Sharma-dev">
-  <img src="https://raw.githubusercontent.com/Nimish-Sharma-dev/Nimish-Sharma-dev/main/profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only" width="100%" alt="Nimish's 3D Contribution Graph" />
-  <img src="https://raw.githubusercontent.com/Nimish-Sharma-dev/Nimish-Sharma-dev/main/profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only" width="100%" alt="Nimish's 3D Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/Nimish-Sharma-dev/Nimish-Sharma-dev/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="Nimish's 3D Contribution Graph" />
 </a>
 
 ---
