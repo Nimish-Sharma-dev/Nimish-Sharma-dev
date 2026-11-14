@@ -50,13 +50,4 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nimish-Sharma-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nimish's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Nimish-Sharma-dev&theme=tokyonight&hide_border=true" alt="Nimish's Streak Stats" />
-</p>
-
 </div>
